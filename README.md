@@ -4,6 +4,7 @@ The repository contains all the implemented and tested data structures.
 * *ARRAY*
 * *Single Linked List*
 * *Doubly Linked List*
+* *Stack*
 * *Queues*
 * *Priority Queues*
 * *Binary Tree*
